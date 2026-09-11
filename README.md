@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Mini Bank Account Management System
-A Java OOP practical project demonstrating core Object-Oriented Programming principles.
+A Java OOP practical project demonstrating core Object Oriented Programming principles.
 
 ## Project Overview
 This system simulates bank accounts with Savings and Current account types.
@@ -17,12 +17,9 @@ Savings accounts earn interest; Current accounts support overdraft facility.
 - Static Binding & Dynamic Binding (Polymorphism)
 - Static Initializer Block
 - Instance Initializer Block
-- Pass-by-value demonstration
+- Pass by value demonstration
 - Custom unchecked exception
-- Collection (ArrayList)
+- Collection (ArrayList/MAP/List)
 
-## Project Structure
-=======
-# mini-bank-system
-mini bank that supports two account
->>>>>>> 0613c9389b13e5d3142f503641e174578171e23a
+
+
