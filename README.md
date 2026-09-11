@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Bank Account Management System
 A Java OOP practical project demonstrating core Object-Oriented Programming principles.
 
@@ -21,3 +22,7 @@ Savings accounts earn interest; Current accounts support overdraft facility.
 - Collection (ArrayList)
 
 ## Project Structure
+=======
+# mini-bank-system
+mini bank that supports two account
+>>>>>>> 0613c9389b13e5d3142f503641e174578171e23a
